@@ -1,0 +1,71 @@
+h1{
+    font-size: 45px;
+    color:rgb(70, 82, 92);
+    text-align: center;
+}
+.a-secenegi{
+    display: flex;
+    margin: auto;
+    font-size: 20px;
+}
+button{
+    width: 40px;
+    height: 40px;
+    font-weight: 900;
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 10PX;
+    margin-left: 10px;
+}
+.b-secenegi{
+    display: flex;
+    margin: auto;
+    font-size: 20px;
+}
+.c-secenegi{
+    display: flex;
+    margin: auto;
+    font-size: 20px;
+}
+.d-secenegi{
+    display: flex;
+    margin: auto;
+    font-size: 20px;
+}
+.soru{
+    font-size: 30px;
+}
+body{
+    background-color: rgb(192, 204, 214);
+    font-family: 'Futura'
+}
+#soru1{
+    background-color: rgb(233, 229, 215);
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#soru2{
+    background-color: rgb(250, 235, 251);
+    border: 2px solid black;
+    border-radius: 10px;
+}
+#soru3{
+    background-color: rgb(235, 251, 249);
+    border: 2px solid black;
+    border-radius: 10px;
+}
+button{
+    margin-left: 10px;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+}
+
+.dogruCevap{
+    background-color: rgb(145, 240, 208);
+}
+.yanlisCevap{
+    background-color: rgb(245, 119, 119);
+}
